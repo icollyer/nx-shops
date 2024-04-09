@@ -93,7 +93,7 @@
     "vite": "~4.3.9",
     "vite-plugin-dts": "~2.3.0",
     "vitest": "~0.32.0",
-    "webpack": "^5.75.0",
+    "webpack": "^5.76.0",
     "webpack-merge": "^5.8.0"
   }
 }
